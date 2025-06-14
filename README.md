@@ -15,7 +15,7 @@ The solution consists of two main components:
 
 <!-- **[Download Rover GPS Tracker APK from Google Drive](https://drive.google.com/file/d/1OKRCWpzat0TcAbh7MitbSIVkACTFZH1q/view?usp=sharing)** -->
 
-<a href="https://drive.google.com/file/d/1OKRCWpzat0TcAbh7MitbSIVkACTFZH1q/view?usp=sharing" target="_blank">Download Rover GPS Tracker APK from Google Drive</a>
+**<a href="https://drive.google.com/file/d/1OKRCWpzat0TcAbh7MitbSIVkACTFZH1q/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Rover GPS Tracker APK from Google Drive</a>**
 
 **Usage Instructions for the App on Android:**
 
