@@ -1,0 +1,44 @@
+# Global ignores (applies to the whole repository)
+.DS_Store
+.idea/
+.vscode/ # Uncomment if you want to commit VS Code workspace settings for the whole repo
+*.log
+*.swp
+**/__pycache__/
+**/*.pyc
+**/venv/
+**/.venv/
+**/env/
+**/.Python/
+**/*.pot
+**/*.egg-info/
+**/.mypy_cache/
+**/.pytest_cache/
+
+# Flutter specific ignores (within the 'rover_gps_tracker' directory)
+/rover_gps_tracker/.dart_tool/
+/rover_gps_tracker/.flutter-plugins
+/rover_gps_tracker/.flutter-plugins-dependencies
+/rover_gps_tracker/.pub-cache/
+/rover_gps_tracker/.pub/
+/rover_gps_tracker/build/
+/rover_gps_tracker/ios/Flutter/.last_build_id
+
+# Android specific ignores (within the 'rover_gps_tracker/android' directory)
+/rover_gps_tracker/android/.gradle/
+/rover_gps_tracker/android/.idea/
+/rover_gps_tracker/android/app/build/
+/rover_gps_tracker/android/app/src/debug/
+/rover_gps_tracker/android/app/src/profile/
+/rover_gps_tracker/android/app/src/release/
+/rover_gps_tracker/android/local.properties
+
+# Sensitive files (globally, or specifically for Android within Flutter)
+**/*.jks                                    # Ignore all Java KeyStore files
+/rover_gps_tracker/android/key.properties   # IMPORTANT: Ignore the key.properties file!
+
+# Symbolication related
+**/app.*.symbols
+
+# Obfuscation related
+**/app.*.map.json
