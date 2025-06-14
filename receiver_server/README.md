@@ -15,10 +15,10 @@ This project contains a simple Python Flask web server designed to receive GPS c
 
 ### Setup and Running the Server:
 
-1.  **Clone the Monorepo:** If you haven't already, clone the main `RoverTrackingSolution` repository.
+1.  **Clone the Monorepo:** If you haven't already, clone the main `Rover_GPS_Tracking` repository.
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/RoverTrackingSolution.git](https://github.com/YOUR_GITHUB_USERNAME/RoverTrackingSolution.git)
-    cd RoverTrackingSolution/receiver_server_project
+    git clone https://github.com/InterplanetarCodebase/Rover_GPS_Tracking
+    cd Rover_GPS_Tracking/receiver_server
     ```
 2.  **Install Python:** Ensure you have Python 3 and `pip` installed on your Linux machine.
     ```bash
